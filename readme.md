@@ -1,6 +1,6 @@
 # 🌌 Welcome to Infinitee's Space!
 
-![Banner](https://your-banner-image-url-here)  <!-- Replace with your banner image URL -->
+![Banner]https://raw.githubusercontent.com/infiniteedev/infiniteedev/refs/heads/main/assets/images/infinitee.webp) 
 
 ## 🚀 About Me
 
