@@ -1,10 +1,10 @@
-# 🌌 Welcome to Infinitee's Space!
+# 🌌 InfiniteeDev
 
 ![Banner](https://raw.githubusercontent.com/infiniteedev/infiniteedev/refs/heads/main/assets/images/infinitee.webp) 
 
 ## 🚀 About Me
 
-Hey there! I'm **Jaishakthi**, a passionate developer from Delhi, India, with a keen interest in Minecraft and game development. I’m currently focused on creating the **Skyport Panel** to enhance the gaming experience for Minecraft server owners.
+Hey there! I'm **Jaishakthi**, a passionate gamer and a junior developer from Delhi, India, with a keen interest in Minecraft and game panel management solution. I’m currently focused on recreating the **Skyport Panel** to enhance the gaming experience for Minecraft server owners.
 
 ## 🏰 Minecraft Enthusiast
 
@@ -12,8 +12,7 @@ As a Minecraft enthusiast, I enjoy exploring the vast worlds, designing unique b
 
 ## 💼 Projects
 
-- **Skyport Panel**: A versatile game panel tailored for Minecraft server management.
-- **Panelix**: Focused on providing comprehensive support for Minecraft server hosting.
+- **Coming soon**
 
 ## 🌟 Fun Fact
 
