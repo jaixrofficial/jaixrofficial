@@ -1,6 +1,6 @@
 # 🌌 Welcome to Infinitee's Space!
 
-![Banner]https://raw.githubusercontent.com/infiniteedev/infiniteedev/refs/heads/main/assets/images/infinitee.webp) 
+![Banner](https://raw.githubusercontent.com/infiniteedev/infiniteedev/refs/heads/main/assets/images/infinitee.webp) 
 
 ## 🚀 About Me
 
