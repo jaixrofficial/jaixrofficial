@@ -1,6 +1,6 @@
-# 🌌 InfiniteeDev
+# 🌌 Jaixr
 
-![Banner](https://raw.githubusercontent.com/infiniteedev/infiniteedev/refs/heads/main/assets/images/infinitee.webp) 
+![Banner](https://raw.githubusercontent.com/jaixrofficial/cdn/refs/heads/main/assets/JaiXR.png) 
 
 ## 🚀 About Me
 
