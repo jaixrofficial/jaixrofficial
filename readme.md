@@ -1,5 +1,7 @@
 # [![My Skills](https://skillicons.dev/icons?i=htmx)](https://skillicons.dev) Jaixr
 
+---
+
 [![My Skills](https://skillicons.dev/icons?i=discord,cloudflare,github)]()
 
 ## 🚀 About Me
@@ -16,4 +18,3 @@ I believe that Minecraft is more than just a game—it's a platform for creativi
 
 ---
 
-Feel free to customize any section with your personal touch. Happy coding! 🚀
