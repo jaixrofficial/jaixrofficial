@@ -1,10 +1,6 @@
 # [![My Skills](https://skillicons.dev/icons?i=htmx)](https://skillicons.dev) Jaixr
 
-<p align="center">
-  <a href="">
-    <img src="[https://skillicons.dev/icons?i=discord,cloudflare,github]" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=discord,cloudflare,github)]()
 
 ## 🚀 About Me
 
