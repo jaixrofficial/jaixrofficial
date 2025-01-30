@@ -1,6 +1,5 @@
 # [![My Skills](https://skillicons.dev/icons?i=htmx)](https://skillicons.dev) Jaixr
 
----
 
 [![My Skills](https://skillicons.dev/icons?i=discord,cloudflare,github)]()
 
