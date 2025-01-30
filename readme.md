@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-Hey there! I'm **Jaishakthi**, a passionate gamer and a junior developer from Delhi, India, with a keen interest in Minecraft and game panel management solution. I’m currently be found in prism discord server ..
+Hey there! I'm **Jaishakthi**, a passionate gamer and a basic developer from Delhi, India, with a keen interest in Minecraft and game panel management solution.
 
 ## 🏰 Minecraft Enthusiast
 
