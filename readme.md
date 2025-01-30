@@ -1,6 +1,6 @@
 # 🌌 Jaixr
 
-![Banner](https://raw.githubusercontent.com/jaixrofficial/cdn/refs/heads/main/assets/JaiXR.png) 
+[![Whatever](https://skillicons.dev/icons?i=discord,cloudflare,github)]()
 
 ## 🚀 About Me
 
